@@ -1,0 +1,26 @@
+First,Last,Specialty,NPI,Phone,Fax,Street,City,State,Zip
+John,Doe,Cardiology,1234567890,555-123-4567,555-123-4568,123 Main St,Springfield,IL,62701
+Jane,Smith,Dermatology,2345678901,555-234-5678,555-234-5679,456 Elm St,Lincoln,NE,68501
+Emily,Jones,Pediatrics,3456789012,555-345-6789,555-345-6790,789 Oak St,Columbus,OH,43215
+Michael,Brown,Orthopedics,4567890123,555-456-7890,555-456-7891,321 Pine St,Denver,CO,80201
+Sarah,Johnson,Neurology,5678901234,555-567-8901,555-567-8902,654 Maple St,Seattle,WA,98101
+David,Williams,Internal Medicine,6789012345,555-678-9012,555-678-9013,987 Cedar St,Atlanta,GA,30301
+Laura,Miller,Family Medicine,7890123456,555-789-0123,555-789-0124,135 Birch St,Miami,FL,33101
+James,Davis,General Surgery,8901234567,555-890-1234,555-890-1235,246 Walnut St,Boston,MA,02101
+Linda,Garcia,Obstetrics,9012345678,555-901-2345,555-901-2346,357 Spruce St,San Francisco,CA,94101
+Robert,Martinez,Endocrinology,0123456789,555-012-3456,555-012-3457,468 Fir St,New York,NY,10001
+Patricia,Hernandez,Rheumatology,1234567891,555-123-4560,555-123-4561,579 Ash St,Los Angeles,CA,90001
+Charles,Lopez,Oncology,2345678902,555-234-5671,555-234-5672,680 Palm St,Chicago,IL,60601
+Jessica,Wilson,Gastroenterology,3456789013,555-345-6782,555-345-6783,791 Cypress St,Houston,TX,77001
+Daniel,Anderson,Cardiothoracic Surgery,4567890124,555-456-7893,555-456-7894,802 Willow St,Philadelphia,PA,19101
+Nancy,Thomas,Nephrology,5678901235,555-567-8904,555-567-8905,913 Cherry St,Phoenix,AZ,85001
+Matthew,Taylor,Plastic Surgery,6789012346,555-678-9015,555-678-9016,124 Chestnut St,San Diego,CA,92101
+Susan,Moore,Infectious Disease,7890123457,555-789-0126,555-789-0127,235 Hickory St,San Antonio,TX,78201
+Mark,Jackson,Emergency Medicine,8901234568,555-890-1237,555-890-1238,346 Poplar St,Dallas,TX,75201
+Karen,Martin,Anesthesiology,9012345679,555-901-2348,555-901-2349,457 Larch St,San Jose,CA,95101
+Paul,Lee,Pathology,0123456780,555-012-3459,555-012-3460,568 Birch St,Austin,TX,78701
+Lisa,Walker,Occupational Medicine,1234567892,555-123-4562,555-123-4563,679 Cedar St,Jacksonville,FL,32201
+Steven,Hall,Physical Medicine,2345678903,555-234-5674,555-234-5675,790 Maple St,San Francisco,CA,94102
+Angela,Young,Allergy and Immunology,3456789014,555-345-6785,555-345-6786,901 Oak St,Charlotte,NC,28201
+Kevin,Allen,Addiction Medicine,4567890125,555-456-7896,555-456-7897,123 Pine St,Columbus,OH,43216
+Michelle,Sanchez,Clinical Genetics,5678901236,555-567

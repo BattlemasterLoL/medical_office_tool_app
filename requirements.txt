@@ -1,0 +1,6 @@
+nicegui==2.8.1
+requests==2.32.3
+plotly==5.9.0
+pandas==1.5.3
+ollama==0.3.0
+PyPDF2==3.0.1
