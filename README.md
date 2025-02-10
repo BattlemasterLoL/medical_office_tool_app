@@ -9,6 +9,8 @@ A comprehensive web-based application built with Python and NiceGUI, designed to
 [![ollama](https://img.shields.io/badge/ollama-0.4.0-blue)](https://ollama.com/blog/python-javascript-libraries)
 [![PyPDF2](https://img.shields.io/badge/PyPDF2-3.0.1-blue)](https://pypdf2.readthedocs.io/en/3.x/)
 
+![App Screenshot](app_screenshot.png)
+
 ## Features
 
 - **ICD-10 Lookup**: Quick search and lookup of ICD-10 codes and descriptions
